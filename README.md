@@ -6,7 +6,7 @@ A compilation of search shortcuts for Nix/NixOS users
 
 Import the `bookmarks.html` file from the repository into your browser bookmarks, and you can use the following shortcuts in your address bar:
 
-1. Find others' Nix configurations on GitHub (`kk`)
+1. Find others' Nix configurations on GitHub (`conf`)
 
     ```
     conf nginx virtualHosts
